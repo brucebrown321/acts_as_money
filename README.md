@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+OpenVino 2024.0.0 (#8726)
