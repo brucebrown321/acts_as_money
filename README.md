@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Clarify triton server boolean value (#8532)
